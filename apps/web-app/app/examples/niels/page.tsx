@@ -46,8 +46,8 @@ export default async function Home({ params, searchParams }: NextServerPageProps
         <div>
             GM user data example. <Link href="/debug">Debug</Link>
             <FrameContainer
-                pathname="/examples/user-data"
-                postUrl="/examples/user-data/frames"
+                pathname="/examples/niels"
+                postUrl="/examples/niels/frames"
                 state={state}
                 previousFrame={previousFrame}
             >

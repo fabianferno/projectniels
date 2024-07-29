@@ -12,13 +12,17 @@
     },
     "dependencies": {
         "@noble/ed25519": "^2.0.0",
+        "@rainbow-me/rainbowkit": "^2.0.0",
+        "@tanstack/react-query": "^5.21.4",
         "frames.js": "^0.5.1",
         "next": "14.1.0",
         "qrcode.react": "^3.1.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "satori": "^0.10.13",
-        "swr": "^2.2.4"
+        "swr": "^2.2.4",
+        "viem": "2.x",
+        "wagmi": "^2.5.7"
     },
     "engines": {
         "node": ">=18.17.0"
